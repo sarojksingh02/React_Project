@@ -1,0 +1,25 @@
+/* .header {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+  font-family: Arial;
+  text-align: center;
+} */
+.header {
+  color: red;
+}
+.range {
+ color: red;
+  text-align: center;
+}
+
+.inputbox {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+.button {
+  color:white;
+  background-color: #282c34;
+}
